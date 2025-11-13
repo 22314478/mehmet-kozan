@@ -76,7 +76,7 @@ I am a passionate **React Native Developer** focused on building innovative and 
 ### 📈 My GitHub Activity
 
 <p align="center">
-  <img src="https" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mehmet-kozan&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Activity%20(Last%2031%20Days)" alt="GitHub Activity Graph"/>
 </p>
 
 ---
