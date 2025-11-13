@@ -4,10 +4,10 @@ Ben tutkulu bir **React Native Geliştiricisiyim**. Mobil dünyaya yenilikçi ve
 
 <br>
 
-* 🌱 Şu anda **[Buraya öğrendiğin bir teknoloji yaz, örn: Expo Router v3 veya Reanimated]** üzerine yoğunlaşıyorum.
-* 🚀 En gurur duyduğum projem: **[Buraya bir proje adı yaz]**
+* 🌱 Şu anda **Reanimated v3 ile karmaşık animasyonlar** üzerine yoğunlaşıyorum.
+* 🚀 En gurur duyduğum projem: **"Gezgin" - Seyahat Planlama Uygulaması**
 * 💬 Bana **React Native, performans optimizasyonu ve UI/UX** konularında soru sorabilirsiniz.
-* 📫 Bana nasıl ulaşırsın: **[E-posta adresini veya LinkedIn linkini buraya koy]**
+* 📫 Bana nasıl ulaşırsın: **mehmet.kozan.dev@gmail.com** (Bu e-postayı örnek olarak yazdım)
 
 <br>
 
@@ -19,9 +19,9 @@ Ben tutkulu bir **React Native Geliştiricisiyim**. Mobil dünyaya yenilikçi ve
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/react-native-1.svg" alt="reactnative" width="40" height="40"/>
-  </a>
+ <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="reactnative" width="40" height="40"/>
+</a>
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -48,23 +48,29 @@ Ben tutkulu bir **React Native Geliştiricisiyim**. Mobil dünyaya yenilikçi ve
 
 ### 📊 GitHub İstatistiklerim
 
+Bu kartlar profilini çok havalı ve profesyonel gösterir. 
+Kullanıcı adını senin için `mehmet-kozan` olarak güncelledim.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SENIN-KULLANICI-ADIN&show_icons=true&theme=tokyonight&icon_color=79ff97&hide_border=true&locale=tr" alt="Mehmet Kozan GitHub İstatistikleri" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mehmet-kozan&show_icons=true&theme=tokyonight&icon_color=79ff97&hide_border=true&locale=tr" alt="Mehmet Kozan GitHub İstatistikleri" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SENIN-KULLANICI-ADIN&layout=compact&theme=tokyonight&hide_border=true&locale=tr" alt="Mehmet Kozan En Çok Kullanılan Diller" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmet-kozan&layout=compact&theme=tokyonight&hide_border=true&locale=tr" alt="Mehmet Kozan En Çok Kullanılan Diller" />
 </p>
 
 ---
 
+### 🔗 Benimle İletişime Geç
+
+Buradaki linkleri de örnek olarak doldurdum, daha sonra kendininkilerle değiştirirsin.
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/..." target="_blank">
+  <a href="https://www.linkedin.com/in/mehmet-kozan-ornek" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/..." target="_blank">
+  <a href="https://twitter.com/mehmetkozan" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:..." target="_blank">
+  <a href="mailto:mehmet.kozan.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
