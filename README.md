@@ -1,5 +1,9 @@
 ### Hi there! I'm Mehmet 👋
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mehmet-kozan&style=flat-square&color=blueviolet" alt="Profile Views"/>
+</p>
+
 I am a passionate **React Native Developer** focused on building innovative and useful mobile applications for the world.
 
 <br>
@@ -10,6 +14,19 @@ I am a passionate **React Native Developer** focused on building innovative and 
 * 📫 How to reach me: **mehmet.kozan.dev@gmail.com** (This is an example email)
 
 <br>
+
+---
+
+### 🚀 My Featured Projects
+
+<p align="center">
+  <a href="https://github.com/mehmet-kozan/PROJECT-NAME-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehmet-kozan&repo=PROJECT-NAME-1&theme=tokyonight&hide_border=true&show_owner=false" alt="Proje 1"/>
+  </a>
+  <a href="https://github.com/mehmet-kozan/PROJECT-NAME-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehmet-kozan&repo=PROJECT-NAME-2&theme=tokyonight&hide_border=true&show_owner=false" alt="Proje 2"/>
+  </a>
+</p>
 
 ---
 
@@ -52,6 +69,14 @@ I am a passionate **React Native Developer** focused on building innovative and 
   <img src="https://github-readme-stats.vercel.app/api?username=mehmet-kozan&show_icons=true&theme=tokyonight&icon_color=79ff97&hide_border=true" alt="Mehmet Kozan's GitHub Stats" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmet-kozan&layout=compact&theme=tokyonight&hide_border=true" alt="Mehmet Kozan's Top Languages" />
+</p>
+
+---
+
+### 📈 My GitHub Activity
+
+<p align="center">
+  <img src="https" alt="GitHub Activity Graph"/>
 </p>
 
 ---
