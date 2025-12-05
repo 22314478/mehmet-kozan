@@ -17,9 +17,7 @@ I am a passionate **React Native Developer** focused on building innovative and 
 
 ### 🚀 My Featured Projects
 
-<p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cba7d133-11d3-4483-b0ec-da61d77147f9.gif" alt="Projects Banner" width="100%" style="border-radius: 10px" />
-</p>
 
 <p align="center">
   <a href="https://github.com/22314478/canli-mac-takip">
