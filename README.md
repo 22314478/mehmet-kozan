@@ -18,6 +18,10 @@ I am a passionate **React Native Developer** focused on building innovative and 
 ### 🚀 My Featured Projects
 
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cba7d133-11d3-4483-b0ec-da61d77147f9.gif" alt="Projects Banner" width="100%" style="border-radius: 10px" />
+</p>
+
+<p align="center">
   <a href="https://github.com/mehmet-kozan/canli-mac-takip">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehmet-kozan&repo=canli-mac-takip&theme=tokyonight&hide_border=true&show_owner=false" alt="Canlı Maç Takip"/>
   </a>
@@ -62,6 +66,10 @@ I am a passionate **React Native Developer** focused on building innovative and 
 ---
 
 ### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding GIF" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mehmet-kozan&show_icons=true&theme=tokyonight&icon_color=79ff97&hide_border=true" alt="Mehmet Kozan's GitHub Stats" />
