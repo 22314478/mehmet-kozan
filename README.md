@@ -25,7 +25,7 @@ I am a passionate **React Native Developer** focused on building innovative and 
   <a href="https://github.com/22314478/canli-mac-takip">
    Canlı Maç Takip
   </a>
-  
+  <p></p>
   <a href="https://github.com/22313378/muhasebe">
   Muhasebe
   </a>
