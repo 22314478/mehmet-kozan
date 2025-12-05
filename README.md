@@ -11,20 +11,18 @@ I am a passionate **React Native Developer** focused on building innovative and 
 * 🌱 I’m currently learning **advanced animations with Reanimated v3**.
 * 🚀 One of my proudest projects is **"Wander" - A Travel Planning App**.
 * 💬 Ask me about **React Native, performance optimization, and UI/UX**.
-* 📫 How to reach me: **mehmetkozan136@gmail.com** 
-
-<br>
+* 📫 How to reach me: **mehmetkozan136@gmail.com** <br>
 
 ---
 
 ### 🚀 My Featured Projects
 
 <p align="center">
-  <a href="https://github.com/22314478/canli-mac-takip">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehmet-kozan&repo=PROJECT-NAME-1&theme=tokyonight&hide_border=true&show_owner=false" alt="Proje 1"/>
+  <a href="https://github.com/mehmet-kozan/canli-mac-takip">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehmet-kozan&repo=canli-mac-takip&theme=tokyonight&hide_border=true&show_owner=false" alt="Canlı Maç Takip"/>
   </a>
-  <a href="https://github.com/22314478/muhasebe">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehmet-kozan&repo=PROJECT-NAME-2&theme=tokyonight&hide_border=true&show_owner=false" alt="Proje 2"/>
+  <a href="https://github.com/mehmet-kozan/muhasebe">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehmet-kozan&repo=muhasebe&theme=tokyonight&hide_border=true&show_owner=false" alt="Muhasebe"/>
   </a>
 </p>
 
@@ -90,7 +88,7 @@ I am a passionate **React Native Developer** focused on building innovative and 
   <a href="https://twitter.com/mehmetkozan" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:mehmet.kozan.dev@gmail.com" target="_blank">
+  <a href="mailto:mehmetkozan136@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
