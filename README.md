@@ -11,7 +11,7 @@ I am a passionate **React Native Developer** focused on building innovative and 
 * 🌱 I’m currently learning **advanced animations with Reanimated v3**.
 * 🚀 One of my proudest projects is **"Wander" - A Travel Planning App**.
 * 💬 Ask me about **React Native, performance optimization, and UI/UX**.
-* 📫 How to reach me: **mehmetkozan136@gmail.com** (This is an example email)
+* 📫 How to reach me: **mehmetkozan136@gmail.com** 
 
 <br>
 
@@ -20,10 +20,10 @@ I am a passionate **React Native Developer** focused on building innovative and 
 ### 🚀 My Featured Projects
 
 <p align="center">
-  <a href="https://github.com/mehmet-kozan/PROJECT-NAME-1">
+  <a href="https://github.com/22314478/canli-mac-takip">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehmet-kozan&repo=PROJECT-NAME-1&theme=tokyonight&hide_border=true&show_owner=false" alt="Proje 1"/>
   </a>
-  <a href="https://github.com/mehmet-kozan/PROJECT-NAME-2">
+  <a href="https://github.com/22314478/muhasebe">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehmet-kozan&repo=PROJECT-NAME-2&theme=tokyonight&hide_border=true&show_owner=false" alt="Proje 2"/>
   </a>
 </p>
