@@ -23,11 +23,9 @@ I am a passionate **React Native Developer** focused on building innovative and 
 
 <p align="center">
   <a href="https://github.com/mehmet-kozan/canli-mac-takip">
-    <img src="https://images.unsplash.com/photo-1522778119026-d647f0565c71?auto=format&fit=crop&w=600&h=350&q=80" alt="Canlı Maç Takip" width="48%" style="border-radius: 10px; margin-right: 10px;" />
   </a>
   
   <a href="https://github.com/mehmet-kozan/muhasebe">
-    <img src="https://images.unsplash.com/photo-1554224155-6726b3ff858f?auto=format&fit=crop&w=600&h=350&q=80" alt="Muhasebe" width="48%" style="border-radius: 10px;" />
   </a>
 </p>
 
