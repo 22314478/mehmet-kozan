@@ -23,9 +23,11 @@ I am a passionate **React Native Developer** focused on building innovative and 
 
 <p align="center">
   <a href="https://github.com/mehmet-kozan/canli-mac-takip">
+   Canlı Maç Takip
   </a>
   
   <a href="https://github.com/mehmet-kozan/muhasebe">
+  Muhasebe
   </a>
 </p>
 
