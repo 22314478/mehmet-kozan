@@ -1,117 +1,90 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=280&section=header&text=Mehmet%20Kozan&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
 
-# Hi there! I'm Mehmet 👋
-### Professional React Native Developer
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=React+Native+Developer;Mobile+UI%2FUX+Enthusiast;Creative+Problem+Solver;Always+Learning+New+Tech" alt="Typing SVG" />
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=mehmet-kozan&style=flat-square&color=blueviolet" alt="Profile Views"/>
-</p>
+  <br/>
 
----
+  <table align="center">
+    <tr>
+      <td width="60%">
+        <h2 align="center">🚀 About Me</h2>
+        <p align="center">
+          I'm a passionate <b>React Native Developer</b> focused on building innovative and useful mobile applications.
+        </p>
+        <p align="left">
+          &nbsp;&nbsp;🌱 Currently mastering <b>advanced animations</b> with Reanimated v3.<br/>
+          &nbsp;&nbsp;💬 Ask me about <b>React Native</b>, performance, and UI/UX.<br/>
+          &nbsp;&nbsp;📫 Reach out: <b><a href="mailto:mehmetkozan136@gmail.com">mehmetkozan136@gmail.com</a></b>
+        </p>
+        <p align="center">
+          <a href="mailto:mehmetkozan136@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+          <a href="https://github.com/mehmet-kozan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+        </p>
+      </td>
+      <td width="40%" align="center">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZ3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4Z3R4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L1R1tvI9svvJC/giphy.gif" width="220px" />
+      </td>
+    </tr>
+  </table>
 
-<p align="center">
-  I am a passionate <b>React Native Developer</b> focused on building innovative and useful mobile applications for the world.
-</p>
+  <br/>
 
-<div align="left">
+  <h2 align="center">🛠 Tech Mastery</h2>
+  <table align="center">
+    <tr>
+      <td align="center"><b>Frontend & Mobile</b></td>
+      <td align="center"><b>Tools & Backend</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+        <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+      </td>
+    </tr>
+  </table>
 
-* 🌱 I’m currently learning **advanced animations with Reanimated v3**.
-* 🚀 One of my proudest projects is **"Wander" - A Travel Planning App**.
-* 💬 Ask me about **React Native, performance optimization, and UI/UX**.
-* 📫 How to reach me: **mehmetkozan136@gmail.com**
+  <br/>
 
-</div>
+  <h2 align="center">🌟 Featured Creations</h2>
+  <table align="center">
+    <tr>
+      <td width="33%" align="center">
+        <h3>🌍 Wander</h3>
+        <p>A Travel Planning App.<br/>One of my proudest works.</p>
+        <div align="center">
+          <a href="https://github.com/22314478"><img src="https://img.shields.io/badge/Source-black?style=flat-square&logo=github" /></a>
+        </div>
+      </td>
+      <td width="33%" align="center">
+        <h3>⚽ Canlı Maç Takip</h3>
+        <p>Real-time football match tracking application.</p>
+        <div align="center">
+          <a href="https://github.com/22314478/canli-mac-takip"><img src="https://img.shields.io/badge/Source-black?style=flat-square&logo=github" /></a>
+        </div>
+      </td>
+      <td width="33%" align="center">
+        <h3>📊 Muhasebe App</h3>
+        <p>Comprehensive accounting and finance management.</p>
+        <div align="center">
+          <a href="https://github.com/22314478/muhasebe"><img src="https://img.shields.io/badge/Source-black?style=flat-square&logo=github" /></a>
+        </div>
+      </td>
+    </tr>
+  </table>
 
----
+  <br/>
 
-### 🚀 Featured Projects
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cba7d133-11d3-4483-b0ec-da61d77147f9.gif" alt="Projects Banner" width="100%" style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);" />
-
-<br/>
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <h4>⚽ Canlı Maç Takip</h4>
-      <p>Live Match Tracking Application</p>
-      <a href="https://github.com/22314478/canli-mac-takip">
-        <img src="https://img.shields.io/badge/View_Project-34D058?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <h4>📊 Muhasebe</h4>
-      <p>Accounting Management Software</p>
-      <a href="https://github.com/22313378/muhasebe">
-        <img src="https://img.shields.io/badge/View_Project-34D058?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-### 💻 Tech Stack & Tools
-
-<table align="center">
-  <tr>
-    <td align="center" width="25%">
-      <b>Mobile & Web</b><br/><br/>
-      <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" width="40" height="40"/>
-      </a>
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <b>Languages</b><br/><br/>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-      </a>
-      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <b>Ecosystem</b><br/><br/>
-      <a href="https://expo.dev/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/expo/expo-original.svg" alt="Expo" width="40" height="40"/>
-      </a>
-      <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <b>Backend & Tools</b><br/><br/>
-      <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-      </a>
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 GitHub Insights
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding GIF" width="100%" style="border-radius: 12px;" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mehmet-kozan&theme=tokyonight&hide_border=true&custom_title=My%20GitHub%20Activity" alt="GitHub Activity Graph" width="100%"/>
-
----
-
-### 🔗 Let's Connect
-
-<p>
-  <a href="mailto:mehmetkozan136@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
+  <h2 align="center">📊 Growth & Activity</h2>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=mehmet-kozan&show_icons=true&theme=radical" />
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmet-kozan&layout=compact&theme=radical" />
+  </p>
 </div>
